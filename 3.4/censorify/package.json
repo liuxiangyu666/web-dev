@@ -6,6 +6,11 @@
   "main": "censortext",
   "dependencies": {
   },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/liuxiagnyu666/web-dev/tree/master/3.4/censorify"
+  },
+  "keywords": ["censor","words"],
   "engines": {
     "node": "*"
   }
